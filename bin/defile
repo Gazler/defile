@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+require 'defile'
+
+Defile::CLI.start
